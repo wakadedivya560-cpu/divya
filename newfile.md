@@ -10,6 +10,8 @@ Write 2 or 3 short sentences about yourself.
 
 ## What I want to learn
 
+I added a new line here
+
 - One thing
 - Another thing
 
